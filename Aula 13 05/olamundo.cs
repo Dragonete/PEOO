@@ -1,6 +1,6 @@
 using System;
 class Program {
-  puclic static void Main(){
-    Console.WriteLine("Olá mundo");
+  public static void Main(){
+    Console.WriteLine("Fala zezin!! saudades, cara");
     }
 }
